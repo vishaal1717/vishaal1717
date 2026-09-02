@@ -8,12 +8,6 @@
 - Building cool projects
 - Aspiring Backend & AI Engineer
 
-### 🛠️ Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,fastapi,git,github" />
-</p>
-
 <p>
 🐍 Python &nbsp; • &nbsp;
 🌐 Web Development &nbsp; • &nbsp;
