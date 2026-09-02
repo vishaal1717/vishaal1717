@@ -22,7 +22,24 @@
 </p>
 
 ---
+## 💻 Tech Stack
 
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
+
+### 🐧 Systems & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
+</p>
+
+> 🧠 Exploring AI fundamentals, frameworks, APIs, and backend development.
 ---
 
 ### Connect with me br
