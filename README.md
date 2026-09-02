@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./vichu-binary-black-white(1).gif" width="400">
+  <img src="./vichu-binary-black-white.gif" width="400">
 </p>
 
 ###  About Me
