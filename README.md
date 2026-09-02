@@ -19,7 +19,6 @@ To become a skilled **Backend Engineer or AI Engineer** and build impactful proj
 ---
 
 ### 🌐 Connect with me
-### 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.instagram.com/vishl.vishl0?igsi=NmtpNzF0aG9zd2x2&utm_source=qr">
