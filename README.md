@@ -1,27 +1,31 @@
 <p align="center">
   <img src="./vichu-binary-black-white(1).gif" width="400">
 </p>
-# Hey, I'm Vichu 👋
-
-Welcome to my GitHub profile! 🚀
 
 ###  About Me
-- Student
+- undergrad 
 - Learning programming and development
 - Building cool projects
 - Aspiring Backend & AI Engineer
 
 ### 🛠️ Currently Learning
-Python • Web Development • AI • Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,fastapi,git,github" />
+</p>
+
+<p>
+🐍 Python &nbsp; • &nbsp;
+🌐 Web Development &nbsp; • &nbsp;
+⚙️ Backend APIs &nbsp; • &nbsp;
+🤖 AI & Machine Learning
+</p>
 
 ---
 
-### 🌱 My Goal
-To become a skilled **Backend Engineer or AI Engineer** and build impactful projects. 🚀🤖
-
 ---
 
-### 🌐 Connect with me
+### Connect with me br
 
 <p align="center">
   <a href="https://www.instagram.com/vishl.vishl0?igsi=NmtpNzF0aG9zd2x2&utm_source=qr">
@@ -32,4 +36,4 @@ To become a skilled **Backend Engineer or AI Engineer** and build impactful proj
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
-Thanks for visiting! ⭐
+
