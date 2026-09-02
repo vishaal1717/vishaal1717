@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./vichu-binary-black-white(1).gif" width="400">
+</p>
 # Hey, I'm Vichu 👋
 
 Welcome to my GitHub profile! 🚀
