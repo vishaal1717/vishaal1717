@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="./vichu-binary-black-white.gif" width="400">
-</p>
+
 
 ###  About Me
 - undergrad 
-- Learning programming and development
-- Building cool projects
-- Aspiring Backend & AI Engineer
 
 <p>
 🐍 Python &nbsp; • &nbsp;
