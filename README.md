@@ -11,27 +11,26 @@
 </p>
 
 ---
-## 💻 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
 
-### 🐧 Systems & Tools
+### Systems & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
 </p>
 
-> 🧠 Exploring AI fundamentals, frameworks, APIs, and backend development.
----
+> 
 
-### Connect with me br
+### Connect
 
 <p align="center">
   <a href="https://www.instagram.com/vishl.vishl0?igsi=NmtpNzF0aG9zd2x2&utm_source=qr">
