@@ -6,7 +6,7 @@
 <p>
 🐍 Python &nbsp; • &nbsp;
 🌐 Web Development &nbsp; • &nbsp;
-⚙️ Backend APIs &nbsp; • &nbsp;
+⚙️ devops &nbsp; • &nbsp;
 🤖 AI & Machine Learning
 </p>
 
